@@ -75,9 +75,7 @@ public class Main {
             e.printStackTrace();
         }
         System.out.println(list);
-//        for (String c: list) {
-//            System.out.println(c);
-//        }
+
     }
 
 }
